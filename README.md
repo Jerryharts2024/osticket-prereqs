@@ -124,9 +124,23 @@ https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share
 </p>
 <p>
  Pretty simple, just using the link below Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  --> Typical Setup --> Launch Configuration Wizard (after install) --> Standard Configuration --> make sure you remember the password.
+
  https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link
 </p>
 <br />
 
+<h3><strong>Step 9: Open IIS as an Admin and Register PHP from within IIS  </strong></h3>
+<h3><strong>Install osTicket v1.15.8 </strong></h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/232871745-d00dbceb-f09c-4d3d-8c8c-3c01938fba8f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Pretty much simple, just using the link below Download and install Install osTicket v1.15.8 (mysql-5.5.62-win32.msi)
+  --> Extract the folder --> Copy the upload folder (after extraction) --> Extract and copy “upload” folder to c:\inetpub\wwwroot --> Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+.
 
+https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=share_link
+</p>
+<br />
 
