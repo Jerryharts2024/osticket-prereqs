@@ -103,25 +103,28 @@ So basically this is to create a folder names PHP on the C drive. So sinply go t
 <img src="https://user-images.githubusercontent.com/131130119/232750070-d2b32012-d092-4e54-83f7-92900545d1a8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-So basically this is to download the PHP zip file and extract the content of the file into the previously created folder named PHP on the C drive. So sinply go to the download folder to locate the zip folder and  Right click, to extract in to the PHP folder on the C Drive.
+So basically this is to download the PHP zip file and extract the content of the file into the previously created folder named PHP on the C drive. So sinply go to the download folder to locate the zip folder and  Right click, to extract in to the PHP folder on the C Drive. (Link below to download)
+https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link
 </p>
 <br />
 
-<h3><strong>Step 7: Create the directory for PHP on our C drive - C:\PHP </strong></h3>
+<h3><strong>Step 7: Download and install VC_redist.x86.exe.</strong></h3>
 <p>
-<img src="https://user-images.githubusercontent.com/131130119/232745560-d2eeb5db-a14a-4143-8ee0-23b2d774df5c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/131130119/232861652-4dce1627-53ee-4a07-8003-fe98f204ecd6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-So basically this is to create a folder names PHP on the C drive. So sinply go to the C drive  Right click, go to new and and create a folder. Name it PHP
+Download and install the VC_redist.x86.exe. This is just a normal installation.
+https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
 </p>
 <br />
 
-<h3><strong>Step 8: Create the directory for PHP on our C drive - C:\PHP </strong></h3>
+<h3><strong>Step 8: Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) </strong></h3>
 <p>
-<img src="https://user-images.githubusercontent.com/131130119/232745560-d2eeb5db-a14a-4143-8ee0-23b2d774df5c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/131130119/232865934-df77cacb-9f0d-4737-8bf0-deef389255fd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-So basically this is to create a folder names PHP on the C drive. So sinply go to the C drive  Right click, go to new and and create a folder. Name it PHP
+ Pretty simple, just using the link below Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+ https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link
 </p>
 <br />
 
