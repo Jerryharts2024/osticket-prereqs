@@ -96,4 +96,34 @@ Using the this link, download and install Rewrite Module (rewrite_amd64_en-US.ms
 <p>
 So basically this is to create a folder names PHP on the C drive. So sinply go to the C drive  Right click, go to new and and create a folder. Name it PHP
 </p>
-<br />R
+<br />
+
+<h3><strong>Step 6: Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP </strong></h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/232750070-d2b32012-d092-4e54-83f7-92900545d1a8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So basically this is to download the PHP zip file and extract the content of the file into the previously created folder named PHP on the C drive. So sinply go to the download folder to locate the zip folder and  Right click, to extract in to the PHP folder on the C Drive.
+</p>
+<br />
+
+<h3><strong>Step 7: Create the directory for PHP on our C drive - C:\PHP </strong></h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/232745560-d2eeb5db-a14a-4143-8ee0-23b2d774df5c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So basically this is to create a folder names PHP on the C drive. So sinply go to the C drive  Right click, go to new and and create a folder. Name it PHP
+</p>
+<br />
+
+<h3><strong>Step 8: Create the directory for PHP on our C drive - C:\PHP </strong></h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/232745560-d2eeb5db-a14a-4143-8ee0-23b2d774df5c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So basically this is to create a folder names PHP on the C drive. So sinply go to the C drive  Right click, go to new and and create a folder. Name it PHP
+</p>
+<br />
+
+
+
