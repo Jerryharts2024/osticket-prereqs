@@ -176,6 +176,9 @@ Refresh the osTicket site in your browse, observe the installer if some of the e
 <img src="https://user-images.githubusercontent.com/131130119/232978536-da5912b6-7aab-4bbb-8983-2863df05276e.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
 </p>
 <p>
+<img src="https://user-images.githubusercontent.com/131130119/232983471-bd78efb2-132e-4278-bec2-20b41a872013.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
+</p>
+<p>
  As demonstrated on the screenshot the file can be located  and retrieved From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php. --> The file ost-sampleconfig.php should be remaned to ost-config.php. (To: C:\inetpub\wwwroot\osTicket\include\ost-config.php). --> Assign Permissions: ost-config.php this can be done the following ways. <br />
   Disable inheritance -> Remove All<br />
   New Permissions -> Everyone -> All<br />
