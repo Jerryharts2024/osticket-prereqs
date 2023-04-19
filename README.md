@@ -171,7 +171,6 @@ Refresh the osTicket site in your browse, observe the installer if some of the e
 <br />
 
 <h3><strong>Step 11: Rename: ost-config.php and Assign Permissions: ost-config.php </strong></h3>
-
 <p>
 <img src="https://user-images.githubusercontent.com/131130119/232978536-da5912b6-7aab-4bbb-8983-2863df05276e.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
 </p>
@@ -184,3 +183,45 @@ Refresh the osTicket site in your browse, observe the installer if some of the e
   New Permissions -> Everyone -> All<br />
 </p>
 <br />
+
+<h3><strong> Step 12: Set up osTicket in the browser (click Continue) </strong></h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/233210759-ccd869bd-8e7d-4d40-bd92-b5043a81e526.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/233210996-51c36462-3149-4799-8e1d-76af71302ebf.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
+</p>
+<p>
+Continue Setting up osTicket in the browser (click Continue) --> Name Helpdesk, Default email (receives email from customers). Create the admin profile and fill all necessay information as provided before installation.
+</p>
+<br />
+
+
+<h3><strong> Step 13: install HeidiSQL, and Continue Setting up osticket in the browser </strong></h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/233216999-dd1edf47-d7a9-4c8d-80d8-8b12ca863d91.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/233217127-3321edec-cf7b-4f14-af17-329d1dc1801a.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
+</p>
+
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/233221643-e1b1b38c-4a70-4159-ae7f-8aa37734d497.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
+</p>
+
+
+<p>
+To continue Setting up osTicket in the browser we have of download and install HeidiSQL. This program allows us to connect to mysql server to setup a database that OsTicket is going to use. So we are going to install HeidiSQL database client. Lunch the HeidiSQL --> create new session --> add paasword (must be remembered to login to the database) --> connect to session --> create database called osTicket.   <br />
+</p>
+<p>
+To continue Setting up osTicket in the browser. <br />
+- mySQL Database: osTicket <br />
+- mySQL Username: root <br />
+- mySQL password: (user defined) <br />
+- Click install Now <br />
+</p>
+<p>
+DONE
+</p>
+<br />
+
