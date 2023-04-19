@@ -137,10 +137,37 @@ https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share
 </p>
 <p>
  Pretty much simple, just using the link below Download and install Install osTicket v1.15.8 (mysql-5.5.62-win32.msi)
-  --> Extract the folder --> Copy the upload folder (after extraction) --> Extract and copy “upload” folder to c:\inetpub\wwwroot --> Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
-.
-
+  --> Extract the folder --> Copy the upload folder (after extraction) --> Extract and copy “upload” folder to c:\inetpub\wwwroot --> Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
 https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=share_link
 </p>
 <br />
+
+<h3><strong>Step 10: Reload IIS (Open IIS, Stop and Start the server)  </strong></h3>
+<h3><strong>Go to sites -> Default -> osTicket (Note that some extensions are not enabled) </strong></h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/232971750-bea784e5-f807-4e54-9ed8-13f912b6b826.png" height="80%" width="80%" alt=""/>
+</p>
+
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/232974937-32254e95-0ac2-42fa-8833-efa4739007d0.png" height="80%" width="80%" alt=""/>
+</p>
+
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/232973047-d14fc0cf-d18f-4e41-b2f1-3d1780b659e8.png" height="80%" width="80%" alt=""/>
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/232973364-a3a930dc-88e2-4ab9-8772-2d0b0bd0d23f.png" height="80%" width="80%" alt=""/>
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/232975402-0117f99e-77a5-4131-aebd-03a83a992bfe.png" height="80%" width="80%" alt=""/>
+</p>
+<p>
+Go to sites -> Default -> osTicket On the right, click “Browse *:80”. this should display osTicket installer on the web browser. Once that is done you should Note that some extensions are not enabled on the installer as demonstrated above. Go back to IIS, sites --> Default --> osTicket Double-click PHP Manager Click --> “Enable or disable an extension”. Enable these extensions.<br />
+Enable: php_imap.dll<br />
+Enable: php_intl.dll<br />
+Enable: php_opcache.dll<br />
+Refresh the osTicket site in your browse, observe the installer if some of the extensions are enabled
+</p>
+<br />
+
 
