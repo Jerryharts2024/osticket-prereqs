@@ -209,7 +209,6 @@ Continue Setting up osTicket in the browser (click Continue) --> Name Helpdesk, 
 <img src="https://user-images.githubusercontent.com/131130119/233221643-e1b1b38c-4a70-4159-ae7f-8aa37734d497.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
 </p>
 
-
 <p>
 To continue Setting up osTicket in the browser we have of download and install HeidiSQL. This program allows us to connect to mysql server to setup a database that OsTicket is going to use. So we are going to install HeidiSQL database client. Lunch the HeidiSQL --> create new session --> add paasword (must be remembered to login to the database) --> connect to session --> create database called osTicket.   <br />
 </p>
@@ -219,6 +218,9 @@ To continue Setting up osTicket in the browser. Fill in the database information
 - mySQL Username: root <br />
 - mySQL password: (user defined) <br />
 - Click install Now <br />
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/233222955-388acc94-496c-4ece-bc59-151083c5fe90.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
 </p>
 <p>
 DONE
