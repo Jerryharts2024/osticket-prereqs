@@ -224,8 +224,9 @@ To continue Setting up osTicket in the browser. Fill in the database information
 </p>
 <p>
 Clean up <br />
-Delete: C:\inetpub\wwwroot\osTicket\setup <br />
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+Change permission of include/ost-config.php to remove write access (Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php) <br />
+Delete setup directory (Delete: C:\inetpub\wwwroot\osTicket\setup) <br />
+Enable the system
 </p>
 <p>
 Notes: <br />
