@@ -223,6 +223,8 @@ To continue Setting up osTicket in the browser. Fill in the database information
 <img src="https://user-images.githubusercontent.com/131130119/233222955-388acc94-496c-4ece-bc59-151083c5fe90.png" height="80%" width="80%" alt="osTicket - Prerequisites and Installation"/>
 </p>
 <p>
+CONGRATULATION YOU HAVE INSTALLED OSTICKET SUCCESSFULLY.
+<br />
 DONE
 </p>
 <br />
